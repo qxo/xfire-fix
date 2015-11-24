@@ -6,5 +6,5 @@ change
 ```
 to
 ```
-<import resource="classpath:org/codehaus/xfire4/spring/xfire.xml" />
+<import resource="classpath:org/codehaus/xfire/spring4/xfire.xml" />
 ```
